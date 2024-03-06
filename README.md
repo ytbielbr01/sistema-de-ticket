@@ -38,9 +38,10 @@ Um sistema de ticket Discord que simplifica o gerenciamento de suporte e comunic
 
 # PRÉVIAS
 
-![Screenshot_7](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/39072fde-f6b9-4b54-a7c9-96ad6a869a53)
-![Screenshot_8](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/d9a6b63c-38bc-41e2-8b21-e7de2e831cc9)
-![Screenshot_6](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/2a7533e5-7d68-4c77-bc06-1fea29899a26)
+![Screenshot_7](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/d54da961-6eab-4455-981c-7121527316b0)
+![Screenshot_8](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/bd7e70ad-ad31-4d96-8b5f-3f386a74e2a2)
+![Screenshot_6](https://github.com/ytbielbr01/sistema-de-ticket/assets/107739037/6c8740a3-99c3-4355-b10f-71a6e4bfad2b)
+
 
 #### LINGUAGENS USADAS
 
